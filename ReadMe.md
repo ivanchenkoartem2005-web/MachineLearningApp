@@ -26,7 +26,7 @@ The project uses the built-in Digits dataset, containing 1,797 handwritten digit
 2. Install the required libraries:
    `pip install numpy pandas matplotlib seaborn scikit-learn`
 3. Run:
-   `python main.py`
+   `python machine_learning_project.py`
 
 ## Author
 IT Student
